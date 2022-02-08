@@ -1,11 +1,17 @@
 
 ![Welcome](/bannerGITHUB.png?raw=true)
 ## Olá sou o David, aluno do curso de Desenvolvimento de Sistemas na ETEC Zona Leste... Seja Bem-Vindo!!
+<u>🤖Tenho o meu objetivo de me aperfeiçoar na área da programação e aumentar os meus conhecimentos buscando sempre uma evolução profissional...</u>
+
+<h3>Sei o que é passar necessidade e sei o que é ter fartura. Aprendi o segredo de viver contente em toda e qualquer situação, seja bem alimentado, seja com fome, tendo muito, ou passando necessidade. Tudo posso naquele que me fortalece.<h4>Filipenses 4:12-13</h4></h3> 
+</br>
+</hr>
   <a href="https://github.com/daviDsoareSS">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daviDsoareSS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviDsoareSS&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
+<center><h3>Competências</h3></center>
 <img align="center" alt="David-Figma" height="30" width="40"
 src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
 <img align="center" alt="David-C" height="30" width="40"
@@ -16,7 +22,7 @@ src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg">
 </div>
   
   ##
- 
+ <center><h3>Redes Socias</h3></center>
 <div> 
   <a href="https://www.instagram.com/david.soaress_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>   
   <a href = "mailto:david.silva425@etec.sp.gov.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
