@@ -6,7 +6,7 @@
 <h3>Sei o que é passar necessidade e sei o que é ter fartura. Aprendi o segredo de viver contente em toda e qualquer situação, seja bem alimentado, seja com fome, tendo muito, ou passando necessidade. Tudo posso naquele que me fortalece.<h4>Filipenses 4:12-13</h4></h3> 
 <hr/>
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/daviDsoareSS">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=daviDsoareSS&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviDsoareSS&layout=compact&langs_count=7&theme=dark"/>
 </div>
@@ -28,6 +28,6 @@ src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg">
   <a href = "mailto:david.silva425@etec.sp.gov.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/david-soares-silva-014891229" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/daviDsoareSS/daviDsoareSS/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/daviDsoareSS/workflows/cobrinha.yml)
  
 </div>
