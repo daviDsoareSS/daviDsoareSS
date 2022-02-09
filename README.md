@@ -5,10 +5,10 @@
 
 <h3>Sei o que é passar necessidade e sei o que é ter fartura. Aprendi o segredo de viver contente em toda e qualquer situação, seja bem alimentado, seja com fome, tendo muito, ou passando necessidade. Tudo posso naquele que me fortalece.<h4>Filipenses 4:12-13</h4></h3> 
 <hr/>
-<div align="center">
+<div align="center" style="display: inline_block; margin-left: auto; margin-right: auto;">
   <a href="https://github.com/daviDsoareSS">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=daviDsoareSS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviDsoareSS&layout=compact&langs_count=7&theme=dark"/>
+ <img height="165em" src="https://github-readme-stats.vercel.app/api?username=daviDsoareSS&show_icons=true&include_all_commits=true&count_private=true&icon_color=fff&text_color=fff&bg_color=DEG,030025,600A0A"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviDsoareSS&layout=compact&langs_count=5&text_color=fff&bg_color=DEG,030025,600A0A"/>
 </div>
 <div style="display: inline_block"><br>
 <center><h3>Competências</h3></center>
