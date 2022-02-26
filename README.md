@@ -3,8 +3,8 @@
 ## Olá sou o David, aluno do curso de Desenvolvimento de Sistemas na ETEC Zona Leste... Seja Bem-Vindo!!
 <div align="center" style="display: inline_block; margin-left: auto; margin-right: auto;">
   <a href="https://github.com/daviDsoareSS">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daviDsoareSS&show_icons=true&include_all_commits=true&count_private=true&icon_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,071b96,050527,830117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviDsoareSS&layout=compact&langs_count=5&text_color=FFFFFF&bg_color=DEG,071b96,050527,830117"/>
+ <img height="170em" src="https://github-readme-stats.vercel.app/api?username=daviDsoareSS&show_icons=true&include_all_commits=true&count_private=true&icon_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,071b96,050527,830117"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviDsoareSS&layout=compact&langs_count=5&text_color=FFFFFF&bg_color=DEG,071b96,050527,830117"/>
 </div>
 <u>🤖Tenho o meu objetivo de me aperfeiçoar na área da programação e aumentar os meus conhecimentos buscando sempre uma evolução profissional...</u>
 <h3>Sei o que é passar necessidade e sei o que é ter fartura. Aprendi o segredo de viver contente em toda e qualquer situação, seja bem alimentado, seja com fome, tendo muito, ou passando necessidade. Tudo posso naquele que me fortalece.<h4>Filipenses 4:12-13</h4></h3> 
