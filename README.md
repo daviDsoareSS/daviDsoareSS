@@ -1,7 +1,7 @@
 
 ![Welcome](/bannerGITHUB.png?raw=true)
 ## Olá sou o David, aluno do curso de Desenvolvimento de Sistemas na ETEC Zona Leste... Seja Bem-Vindo!!
-<div align="center" style="display: inline_block; margin-left: auto; margin-right: auto;">
+<div align="center" style="display:inline_block; margin-left: auto; margin-right: auto;">
   <a href="https://github.com/daviDsoareSS">
  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=daviDsoareSS&show_icons=true&include_all_commits=true&count_private=true&icon_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,071b96,050527,830117"/>
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviDsoareSS&layout=compact&langs_count=5&text_color=FFFFFF&bg_color=DEG,071b96,050527,830117"/>
