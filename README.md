@@ -1,5 +1,4 @@
 
-</br>
 <hr>
 <img src="https://media.giphy.com/media/isQmENsgaqqzjbxBCD/giphy.gif" width="850" height="250">
 <hr>
