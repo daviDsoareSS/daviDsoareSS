@@ -1,15 +1,17 @@
 
 <hr>
 <img src="https://media.giphy.com/media/isQmENsgaqqzjbxBCD/giphy.gif" width="850" height="250">
+![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 <hr>
+[![Linkedin](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.youtube.com/watch?v=cRoBt6AZgjc)
 <h3><u>Olá sou o David, aluno do curso de Desenvolvimento de Sistemas na ETEC Zona Leste... Seja Bem-Vindo!!</u></h3>
 <div align="center" style="display:inline_block; margin-left: auto; margin-right: auto;">
   <a href="https://github.com/daviDsoareSS">
- <img height="165em" src="https://github-readme-stats.vercel.app/api?username=daviDsoareSS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviDsoareSS&layout=compact&langs_count=7&theme=dracula"/>
+ <img height="165em" src="https://github-readme-stats.vercel.app/api?username=daviDsoareSS&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviDsoareSS&layout=compact&langs_count=7&theme=react"/>
 </div>
-<a>🤖Tenho o meu objetivo de me aperfeiçoar na área da programação e aumentar os meus conhecimentos buscando sempre uma evolução profissional...</a>
-<h3>Sei o que é passar necessidade e sei o que é ter fartura. Aprendi o segredo de viver contente em toda e qualquer situação, seja bem alimentado, seja com fome, tendo muito, ou passando necessidade. Tudo posso naquele que me fortalece.<h4>Filipenses 4:12-13</h4></h3> 
+<h4>Tenho o meu objetivo de me aperfeiçoar na área da programação e aumentar os meus conhecimentos buscando sempre uma evolução profissional  🤖🤖🤖...</h4>
+<h3>Aqui estão algumas linguagem que tenho conhecimento</h3> 
 <hr/>
 <div style="display: inline_block"><br>
 <center><h3>Competências</h3></center>
