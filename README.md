@@ -1,6 +1,7 @@
 
 <img src="https://media.giphy.com/media/isQmENsgaqqzjbxBCD/giphy.gif" width="850" height="250">
-Olá sou o David, aluno do curso de Desenvolvimento de Sistemas na ETEC Zona Leste... Seja Bem-Vindo!!
+<hr>
+<h3><u>Olá sou o David, aluno do curso de Desenvolvimento de Sistemas na ETEC Zona Leste... Seja Bem-Vindo!!</u></h3>
 <div align="center" style="display:inline_block; margin-left: auto; margin-right: auto;">
   <a href="https://github.com/daviDsoareSS">
  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=daviDsoareSS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
