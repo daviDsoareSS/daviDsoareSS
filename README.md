@@ -1,5 +1,5 @@
 
-<img src="https://media.giphy.com/media/bPuDzD9ZoLaWCx1Uda/giphy.gif" width="850" height="250">
+<img src="https://media.giphy.com/media/isQmENsgaqqzjbxBCD/giphy.gif" width="850" height="250">
 Olá sou o David, aluno do curso de Desenvolvimento de Sistemas na ETEC Zona Leste... Seja Bem-Vindo!!
 <div align="center" style="display:inline_block; margin-left: auto; margin-right: auto;">
   <a href="https://github.com/daviDsoareSS">
