@@ -1,4 +1,6 @@
 
+</br>
+<hr>
 <img src="https://media.giphy.com/media/isQmENsgaqqzjbxBCD/giphy.gif" width="850" height="250">
 <hr>
 <h3><u>Olá sou o David, aluno do curso de Desenvolvimento de Sistemas na ETEC Zona Leste... Seja Bem-Vindo!!</u></h3>
