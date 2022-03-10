@@ -42,10 +42,12 @@ src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.sv
 <img align="center" alt="David-Figma" height="30" width="40"
 src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
   
+ ### 🔥 Streak Stats 
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=daviDsoareSS&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  
+  ![Snake animation](https://github.com/daviDsoareSS/daviDsoareSS/blob/output/github-contribution-grid-snake.svg)
+  
   ##
-<h4>Tenho o meu objetivo de me aperfeiçoar na área da programação e aumentar os meus conhecimentos buscando sempre uma evolução profissional ...</h4>
+<h2> Tenho o meu objetivo de me aperfeiçoar na área da programação e aumentar os meus conhecimentos buscando sempre uma evolução profissional ...</h2>
 
   ##
- ![Snake animation](https://github.com/daviDsoareSS/daviDsoareSS/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
