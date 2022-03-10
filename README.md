@@ -27,7 +27,7 @@
 ###  👨‍💻 Software's for design that I use
 <img align="center" alt="David-Photoshop" height="30" width="40"
 src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg">
-<img align="center" alt="David-Gimp" height="30" width="40"
+<img align="center" alt="David-Xd" height="30" width="40"
 src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg">
 <img align="center" alt="David-Figma" height="30" width="40"
 src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
@@ -39,13 +39,16 @@ src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.sv
 <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
 
 ### 🧰 Frameworks and libraries
-<img align="center" alt="David-Figma" height="30" width="40"
+<img align="center" alt="David-bootstrap" height="30" width="40"
 src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
   
   ##
   
  ### 🔥 Streak Stats 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=daviDsoareSS&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  <hr>
+  
+  ![img](https://custom-icon-badges.herokuapp.com/badge/Commit-green.svg?logo=git-commit&logoColor=fff)
   
   ![Snake animation](https://github.com/daviDsoareSS/daviDsoareSS/blob/output/github-contribution-grid-snake.svg)
   
