@@ -1,20 +1,38 @@
 ![Welcome](/davidDeveloper.png?raw=true)
+<h3><u> 👨‍💻👽   Olá me chamo David, aluno do curso de Desenvolvimento de Sistemas na ETEC Zona Leste... 
+<br>Seja Bem-Vindo ao meu perfil!!</u></h3>
+<hr>
 
-### 👨‍ Languages and tools that I know
-
+### 🛠🖥 Programming Languages and tools that I know
 <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
 <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
-<a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-<a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a><br>
 
+###  👨‍💻 Software's for design that I use
+<img align="center" alt="David-Photoshop" height="30" width="40"
+src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg">
+<img align="center" alt="David-Gimp" height="30" width="40"
+src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg">
+<img align="center" alt="David-Figma" height="30" width="40"
+src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
+<img align="center" alt="David-Gimp" height="30" width="40"
+src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg">
+
+##
+
+### 📚📝 Databases I study
+<a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+<a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
+
+##
 ### 🧰 Frameworks and libraries
+<img align="center" alt="David-Figma" height="30" width="40"
+src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
 
-<hr>
+##
 
-<h3><u>Olá sou o David, aluno do curso de Desenvolvimento de Sistemas na ETEC Zona Leste... Seja Bem-Vindo!!</u></h3>
 <div align="center" style="display:inline_block; margin-left: auto; margin-right: auto;">
   <a href="https://github.com/daviDsoareSS">
  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=daviDsoareSS&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
@@ -24,16 +42,7 @@
 <h3>Aqui estão algumas linguagem que tenho conhecimento</h3> 
 <hr/>
 <div style="display: inline_block"><br>
-<center><h3>Competências</h3></center>
-<img align="center" alt="David-Figma" height="30" width="40"
-src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
-<img align="center" alt="David-C" height="30" width="40"
-src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg">
-  <img align="center" alt="David-PS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg">
-  <img align="center" alt="David-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="David-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
   ##
  <center><h3>Redes Socias</h3></center>
 <div> 
