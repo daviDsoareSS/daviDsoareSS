@@ -1,7 +1,17 @@
 ![Welcome](/davidDeveloper.png?raw=true)
 <h3><u> 👨‍💻👽   Olá me chamo David, aluno do curso de Desenvolvimento de Sistemas na ETEC Zona Leste... 
 <br>Seja Bem-Vindo ao meu perfil!!</u></h3>
-<hr>
+
+##
+
+### 📊📈 Language statistics
+<div align="center" style="display:inline_block; margin-left: auto; margin-right: auto;">
+  <a href="https://github.com/daviDsoareSS">
+ <img height="165em" src="https://github-readme-stats.vercel.app/api?username=daviDsoareSS&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviDsoareSS&layout=compact&langs_count=7&theme=react"/>
+</div>
+  
+##
 
 ### 🛠🖥 Programming Languages and tools that I know
 <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
@@ -33,16 +43,9 @@ src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-p
 
 ##
 
-<div align="center" style="display:inline_block; margin-left: auto; margin-right: auto;">
-  <a href="https://github.com/daviDsoareSS">
- <img height="165em" src="https://github-readme-stats.vercel.app/api?username=daviDsoareSS&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviDsoareSS&layout=compact&langs_count=7&theme=react"/>
-</div>
+
 <h4>Tenho o meu objetivo de me aperfeiçoar na área da programação e aumentar os meus conhecimentos buscando sempre uma evolução profissional  🤖🤖🤖...</h4>
-<h3>Aqui estão algumas linguagem que tenho conhecimento</h3> 
-<hr/>
-<div style="display: inline_block"><br>
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+
   ##
  <center><h3>Redes Socias</h3></center>
 <div> 
