@@ -2,7 +2,7 @@
 <h4><u> 👨‍💻 Olá me chamo David, programador Front-end. Técnico formado em Desenvolvimento de Sistemas na ETEC Zona Leste.
 <br><br>Seja Bem-Vindo ao meu perfil!</u></h4>
 <div>
-  <a href = "mailto:davidsoares2156@gmail.com"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-sucess" target="_blank">
+  <a href = "mailto:davidsoares2156@gmail.com"><img src="https://img.shields.io/badge/PORTFOLIO-C2A633?style=for-the-badge&logo=dogecoin&logoColor=white" target="_blank"></a>
   <a href = "mailto:davidsoares2156@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/david-soares-silva-014891229" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
