@@ -49,13 +49,9 @@ src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-p
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daviDsoareSS&repo=tcc-automacao-residencial)](https://github.com/daviDsoareSS/tcc-automacao-residencial)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daviDsoareSS&repo=POO-javascript)](https://github.com/daviDsoareSS/POO-javaScript)
   <hr>
- 
-  
+
   ![img](https://custom-icon-badges.herokuapp.com/badge/Commit-green.svg?logo=git-commit&logoColor=fff)
   
   ![Snake animation](https://github.com/daviDsoareSS/daviDsoareSS/blob/output/github-contribution-grid-snake.svg)
   
-  ##
-<h2> Tenho o meu objetivo de me aperfeiçoar na área da programação e aumentar os meus conhecimentos buscando sempre uma evolução profissional ...</h2>
-
   ##
