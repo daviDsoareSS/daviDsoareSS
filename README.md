@@ -16,10 +16,6 @@
 </div>
   
   ##
-  
-  ### 🔥 Streak Stats 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=daviDsoareSS&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-  <hr>
 
 ### 🛠🖥 Programming Languages and tools that I know
 <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
@@ -47,7 +43,9 @@ src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.sv
 src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
   
   ##
-  
+ 🔥 Streak Stats 
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=daviDsoareSS&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  <hr>
  
   
   ![img](https://custom-icon-badges.herokuapp.com/badge/Commit-green.svg?logo=git-commit&logoColor=fff)
