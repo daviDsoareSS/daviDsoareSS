@@ -44,6 +44,7 @@ src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-p
   
   ##
  🔥 Top projects
+  <br>
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daviDsoareSS&repo=tcc-automacao-residencial)](https://github.com/daviDsoareSS/tcc-automacao-residencial)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daviDsoareSS&repo=POO-javascript)](https://github.com/daviDsoareSS/POO-javaScript)
   <hr>
