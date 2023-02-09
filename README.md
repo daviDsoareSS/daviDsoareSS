@@ -43,7 +43,8 @@ src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.sv
 src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
   
   ##
- 🔥 Streak Stats 
+ 🔥 Streak Stats
+  ##
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=daviDsoareSS&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   <hr>
  
