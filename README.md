@@ -18,7 +18,7 @@
   ##
   
   ### 🔥 Streak Stats 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=daviDsoareSS&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=daviDsoareSS&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   <hr>
 
 ### 🛠🖥 Programming Languages and tools that I know
