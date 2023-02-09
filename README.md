@@ -45,7 +45,7 @@ src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-p
   ##
  🔥 Streak Stats
   #
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daviDsoareSS&repo=github-readme-stats)](https://github.com/daviDsoareSS/tcc-automacao-residencial)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daviDsoareSS&repo=tcc-automacao-residencial)](https://github.com/daviDsoareSS/tcc-automacao-residencial)
   <hr>
  
   
