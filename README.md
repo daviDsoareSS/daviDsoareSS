@@ -1,5 +1,5 @@
 ![Welcome](/davidDeveloper.png?raw=true)
-<h4><u> 👨‍💻 Olá me chamo David, programador Front-end. Técnico formado em Desenvolvimento de Sistemas na ETEC Zona Leste.
+<h4><u> 👨‍💻 Olá me chamo David, programador Front-end. Técnico formado em Desenvolvimento de Sistemas na ETEC (Escola Técnica Estadual) Zona Leste.
 <br><br>Seja Bem-Vindo ao meu perfil!</u></h4>
 <div>
   <a href = "mailto:davidsoares2156@gmail.com"><img src="https://img.shields.io/badge/PORTFOLIO-black?style=for-the-badge&logo=dogecoin&logoColor=white" target="_blank"></a>
