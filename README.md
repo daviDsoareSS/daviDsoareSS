@@ -1,5 +1,5 @@
 ![Welcome](/davidDeveloper.png?raw=true)
-<h3><u> 👨‍💻👽   Olá me chamo David, aluno do curso de Desenvolvimento de Sistemas na ETEC Zona Leste... 
+<h3><u> 👨‍💻 Olá me chamo David, sou técnico formado em Desenvolvimento de Sistemas na ETEC Zona Leste... 
 <br>Seja Bem-Vindo ao meu perfil!!</u></h3>
 <div> 
   <a href="https://www.instagram.com/david.soaress_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>   
