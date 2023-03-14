@@ -33,6 +33,8 @@ src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg">
 src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
 <img align="center" alt="David-Gimp" height="30" width="40"
 src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg">
+<img align="center" alt="David-React" height="30" width="40" 
+src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
 
 ### 📚📝 Databases I study
 <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
