@@ -13,8 +13,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviDsoareSS&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
-  
-  #
 
 ### Linguagens, bibliotecas e frameworks de programação
 <img alt="HTML" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="30" width="40">
