@@ -37,7 +37,7 @@ src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.
 src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg">
 
 ### Banco de dados
-<img alt="HTML" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" height="30" width="40">
+<img alt="HTML" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" height="60" width="80">
   
   ##
   ![img](https://custom-icon-badges.herokuapp.com/badge/Commit-green.svg?logo=git-commit&logoColor=fff)
