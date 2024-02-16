@@ -16,10 +16,10 @@
   ##
 
 ### Programming Languages and tools that I know
-<img alt="HTML" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-<img alt="CSS" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
-<img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white">
+<img alt="HTML" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="30" width="40">
+<img alt="CSS" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="30" width="40">
+<img alt="JavaScript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="30" width="40">
+<img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white" height="30" width="40">
 
 
 ### Software's for design that I use
