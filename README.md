@@ -24,9 +24,9 @@
 
 ### Software's for design that I use
 <img align="center" alt="David-Photoshop" height="30" width="40"
-src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg">
+src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg">
 <img align="center" alt="David-Xd" height="30" width="40"
-src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg">
+src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-original.svg">
 <img align="center" alt="David-Figma" height="30" width="40"
 src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
 <img align="center" alt="David-Gimp" height="30" width="40"
