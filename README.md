@@ -21,8 +21,8 @@
 <img alt="JavaScript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="30" width="40">
 <img alt="React JS" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="30" width="40">
 <img alt="Next JS" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" height="30" width="40">
-<img alt="Laravel" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" height="30" width="40">
 <img alt="PHP" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" height="30" width="40">
+<img alt="Laravel" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" height="30" width="40">
 <img alt="Bootstrap" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" height="30" width="40" >
 
 
