@@ -19,7 +19,7 @@
 <img alt="HTML" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="30" width="40">
 <img alt="CSS" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="30" width="40">
 <img alt="JavaScript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="30" width="40">
-<img alt="React JS" src="https://github.com/devicons/devicon/blob/master/icons/reactjs/reactjs-original.svg" height="30" width="40">
+<img alt="React JS" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="30" width="40">
 <img alt="Next JS" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" height="30" width="40">
 <img alt="PHP" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" height="30" width="40">
 
