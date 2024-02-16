@@ -42,7 +42,7 @@ src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.
 <img align="center" alt="David-bootstrap" height="30" width="40"
 src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
 <img align="center" alt="David-nextjs" height="30" width="40"
-src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-plain.svg">
+src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
   
   ##
   ![img](https://custom-icon-badges.herokuapp.com/badge/Commit-green.svg?logo=git-commit&logoColor=fff)
