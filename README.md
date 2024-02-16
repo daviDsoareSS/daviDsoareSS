@@ -40,7 +40,7 @@ src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.
 
 ### 🧰 Frameworks and libraries
 <img align="center" alt="David-bootstrap" height="30" width="40"
-src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
+src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
 <img align="center" alt="David-nextjs" height="30" width="40"
 src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
   
