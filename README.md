@@ -6,7 +6,7 @@
   
   ##
 
-### 📊📈 Language statistics
+### 📊📈 Relatório de uso das linguagens de programação
 <div>
   <a href="https://github.com/daviDsoareSS">
   <img src="https://github-readme-stats.vercel.app/api?username=daviDsoareSS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -15,7 +15,7 @@
   
   ##
 
-### Programming Languages and tools that I know
+### Linguagens, bibliotecas e frameworks de programação
 <img alt="HTML" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="30" width="40">
 <img alt="CSS" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="30" width="40">
 <img alt="JavaScript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="30" width="40">
@@ -26,7 +26,7 @@
 <img alt="Bootstrap" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" height="30" width="40" >
 
 
-### Software's for design that I use
+### Ferramentas para design
 <img align="center" alt="David-Photoshop" height="30" width="40"
 src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg">
 <img align="center" alt="David-Xd" height="30" width="40"
@@ -36,7 +36,7 @@ src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.
 <img align="center" alt="David-Gimp" height="30" width="40"
 src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg">
 
-### Databases
+### Banco de dados
 <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
 <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
 
