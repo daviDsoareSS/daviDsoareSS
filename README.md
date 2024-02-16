@@ -19,7 +19,8 @@
 <img alt="HTML" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="30" width="40">
 <img alt="CSS" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="30" width="40">
 <img alt="JavaScript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="30" width="40">
-<img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white" height="30" width="40">
+<img alt="React JS" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" height="30" width="40">
+<img alt="PHP" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" height="30" width="40">
 
 
 ### Software's for design that I use
