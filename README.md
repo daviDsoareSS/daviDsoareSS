@@ -40,8 +40,8 @@ src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.sv
 ### Banco de dados
 <img alt="HTML" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" height="60" width="80">
   
-  ##
-  ![img](https://custom-icon-badges.herokuapp.com/badge/Commit-green.svg?logo=git-commit&logoColor=fff)
-  ![Snake animation](https://github.com/daviDsoareSS/daviDsoareSS/blob/output/github-contribution-grid-snake.svg)
-  
-  ##
+##
+![img](https://custom-icon-badges.herokuapp.com/badge/Commit-green.svg?logo=git-commit&logoColor=fff)
+![Snake animation](https://github.com/daviDsoareSS/daviDsoareSS/blob/output/github-contribution-grid-snake.svg)
+
+##
