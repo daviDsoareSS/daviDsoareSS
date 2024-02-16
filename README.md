@@ -22,6 +22,7 @@
 <img alt="React JS" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="30" width="40">
 <img alt="Next JS" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" height="30" width="40">
 <img alt="PHP" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" height="30" width="40">
+<img alt="Bootstrap" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" height="30" width="40" >
 
 
 ### Software's for design that I use
@@ -38,11 +39,6 @@ src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.sv
 <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
 <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
 
-### Frameworks and libraries
-<img align="center" alt="David-bootstrap" height="30" width="40"
-src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-<img align="center" alt="David-nextjs" height="30" width="40"
-src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
   
   ##
   ![img](https://custom-icon-badges.herokuapp.com/badge/Commit-green.svg?logo=git-commit&logoColor=fff)
