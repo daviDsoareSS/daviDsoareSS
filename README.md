@@ -1,4 +1,4 @@
-![Welcome](/davidDeveloper.png?raw=true)
+![Welcome](/1675965989356.jpeg?raw=true)
 <div>
   <a href = "https://me-portfolio-davidsoares.vercel.app/" target="blank"><img src="https://img.shields.io/badge/PORTFOLIO-black?style=for-the-badge&logo=dogecoin&logoColor=white" target="_blank"></a>
   <a href = "mailto:davidsoares2156@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
